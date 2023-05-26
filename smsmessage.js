@@ -4,8 +4,9 @@
 
 
 //DO NOT SEND MESSAGES AS MY ACCOUNT WILL BE CHARGED
-const accountSid = 'ACe9b8898acd167156e4eaa050034a76ed';
+const accountSid = 'xxxxx';
 const authToken = 'XXXXX';
+// eslint-disable-next-line no-undef
 const client = require('twilio')(accountSid, authToken);
 
 
